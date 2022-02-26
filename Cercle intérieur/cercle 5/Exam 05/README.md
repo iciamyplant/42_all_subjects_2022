@@ -1,0 +1,3 @@
+# Exam Rank 05
+
+It's C++. Copy/Paste...
